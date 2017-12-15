@@ -52,8 +52,6 @@
 		</tbody>
 	</table>
 	<div id="chartdiv"></div>
-	<hr>
-	<table id="data" style="display:none;">
 	<div class="row">
 		<div class="col-md-2">
 			<p style="color:#fe6a09; font-size: 16px;"><b>Open value</b></p>
@@ -62,6 +60,7 @@
 			<p style="color:#fbd201; font-size: 16px;"><b>Close value</b></p>
 		</div>
 	</row>
+	<table id="data" style="display:none;">
 		<thead>
 			<tr>
 				<th></th>
